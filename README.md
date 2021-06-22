@@ -7,8 +7,8 @@ This project, based on the database of France passenger vehicle fleet 2006-2019,
 
 Please refer to:
 
-model.R is the code 
+model.R as the code 
 
-Memo is the full report of the research
+Memo as the full report of the research
 
-csv file contains the France Passenger Vehicles fleet data
+csv file as the France Passenger Vehicles fleet data
